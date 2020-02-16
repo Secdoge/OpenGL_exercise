@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/OldJiao/git/opengl_05/src/glad.c" "/Users/OldJiao/git/opengl_05/cmake-build-debug/CMakeFiles/opengl_05.dir/src/glad.c.o"
+  "/Users/OldJiao/git/OpenGL_exercise/opengl_05/src/glad.c" "/Users/OldJiao/git/OpenGL_exercise/opengl_05/cmake-build-debug/CMakeFiles/opengl_05.dir/src/glad.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
@@ -14,7 +14,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "/usr/local/include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/OldJiao/git/opengl_05/main.cpp" "/Users/OldJiao/git/opengl_05/cmake-build-debug/CMakeFiles/opengl_05.dir/main.cpp.o"
+  "/Users/OldJiao/git/OpenGL_exercise/opengl_05/main.cpp" "/Users/OldJiao/git/OpenGL_exercise/opengl_05/cmake-build-debug/CMakeFiles/opengl_05.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

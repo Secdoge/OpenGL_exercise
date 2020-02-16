@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/OldJiao/git/opengl_01/src/glad.c
+/Users/OldJiao/git/OpenGL_exercise/opengl_01/src/glad.c
 stdio.h
 -
 stdlib.h

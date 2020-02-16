@@ -48,7 +48,7 @@ int main () {
 
     // Build & Compile shader program
     // ------------------------------
-    Shader shader1 = Shader("/Users/OldJiao/git/opengl_02/shaders/3.3.shader.vs", "/Users/OldJiao/git/opengl_02/shaders/3.3.shader.fs");
+    Shader shader1 = Shader("../shaders/3.3.shader.vs", "../shaders/3.3.shader.fs");
 
     // Setup vertex data
     // -----------------

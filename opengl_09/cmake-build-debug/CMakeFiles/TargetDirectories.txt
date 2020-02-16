@@ -1,3 +1,3 @@
-/Users/OldJiao/git/opengl_09/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/OldJiao/git/opengl_09/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/OldJiao/git/opengl_09/cmake-build-debug/CMakeFiles/opengl_09.dir
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/cmake-build-debug/CMakeFiles/opengl_09.dir

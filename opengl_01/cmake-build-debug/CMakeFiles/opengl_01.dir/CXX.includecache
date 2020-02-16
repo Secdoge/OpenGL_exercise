@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/OldJiao/git/opengl_01/main.cpp
+/Users/OldJiao/git/OpenGL_exercise/opengl_01/main.cpp
 glad/glad.h
 -
 GLFW/glfw3.h

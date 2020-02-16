@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Users/OldJiao/git/opengl_03/main.cpp
+/Users/OldJiao/git/OpenGL_exercise/opengl_03/main.cpp
 glad/glad.h
 -
 GLFW/glfw3.h
 -
 src/stb_image.h
-/Users/OldJiao/git/opengl_03/src/stb_image.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_03/src/stb_image.h
 src/shader_s.h
-/Users/OldJiao/git/opengl_03/src/shader_s.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_03/src/shader_s.h
 iostream
 -
 cmath
 -
 
-/Users/OldJiao/git/opengl_03/src/shader_s.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_03/src/shader_s.h
 glad/glad.h
 -
 glm/glm.hpp
@@ -34,9 +34,9 @@ sstream
 iostream
 -
 
-/Users/OldJiao/git/opengl_03/src/stb_image.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_03/src/stb_image.h
 stb_image.h
-/Users/OldJiao/git/opengl_03/src/stb_image.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_03/src/stb_image.h
 stdio.h
 -
 stdlib.h

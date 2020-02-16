@@ -11,7 +11,100 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8252d3a7-e17b-4a5b-b73e-b319a1d20f12" name="默认更改列表" comment="" />
+    <list default="true" id="8252d3a7-e17b-4a5b-b73e-b319a1d20f12" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../opengl_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opengl_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/learnopengl2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/opengl_01" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/opengl_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/opengl_01.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_01/cmake-build-debug/opengl_01.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/learnopengl.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/opengl_02.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/opengl_02.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/opengl_02.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/opengl_02.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/opengl_02.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/opengl_02.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/opengl_02.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/CMakeFiles/opengl_02.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/opengl_02" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/opengl_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/opengl_02.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/cmake-build-debug/opengl_02.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opengl_02/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../opengl_02/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_02.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_02.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_02.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_02.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_02.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_02.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_02.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/opengl_03.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/opengl_03.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/opengl_03.cbp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,22 +118,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
+            <state relative-caret-position="825">
               <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
               <folding>
                 <element signature="e#51#73#0" expanded="true" />
-                <element signature="e#112#131#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../opengl_04/src/glad.c">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -74,7 +161,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/shader_s.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1345">
+            <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#35#57#0" expanded="true" />
@@ -93,6 +180,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,11 +203,13 @@
     <option name="width" value="740" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope '项目文件'; set:项目文件; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,38 +221,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope '项目文件'; set:项目文件; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="opengl_03" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/git/opengl_03" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="opengl_03" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/git/opengl_03" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="shaders" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="opengl_03" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/git/opengl_03" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="opengl_03" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/git/opengl_03" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="texture" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -216,17 +283,18 @@
       <workItem from="1581349422546" duration="158000" />
       <workItem from="1581349629218" duration="12402000" />
       <workItem from="1581425921944" duration="19017000" />
+      <workItem from="1581828632427" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41211000" />
+    <option name="totallyTimeSpent" value="41254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25894135" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26251787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,35 +330,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/texture/awesomeface.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shader_s.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1345">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#35#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shaders/3.3.shader.vs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/texture/container.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shaders/3.3.shader.fs">
       <provider selected="true" editor-type-id="text-editor">
@@ -299,19 +344,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/texture/container.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texture/awesomeface.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shader_s.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <element signature="e#51#73#0" expanded="true" />
-            <element signature="e#112#131#0" expanded="true" />
+            <element signature="e#35#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../opengl_04/src/glad.c">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
+          <folding>
+            <element signature="e#51#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

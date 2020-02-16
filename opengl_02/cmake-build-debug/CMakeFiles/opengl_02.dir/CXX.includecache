@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/OldJiao/git/opengl_02/main.cpp
+/Users/OldJiao/git/OpenGL_exercise/opengl_02/main.cpp
 glad/glad.h
 -
 GLFW/glfw3.h
 -
 src/shader_s.h
-/Users/OldJiao/git/opengl_02/src/shader_s.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_02/src/shader_s.h
 iostream
 -
 cmath
 -
 
-/Users/OldJiao/git/opengl_02/src/shader_s.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_02/src/shader_s.h
 glad/glad.h
 -
 glm/glm.hpp

@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/OldJiao/git/opengl_01
+CMAKE_SOURCE_DIR = /Users/OldJiao/git/OpenGL_exercise/opengl_01
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/OldJiao/git/opengl_01/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/OldJiao/git/OpenGL_exercise/opengl_01/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/opengl_01.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/opengl_01.dir/flags.make
 
 CMakeFiles/opengl_01.dir/main.cpp.o: CMakeFiles/opengl_01.dir/flags.make
 CMakeFiles/opengl_01.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/OldJiao/git/opengl_01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opengl_01.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opengl_01.dir/main.cpp.o -c /Users/OldJiao/git/opengl_01/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/OldJiao/git/OpenGL_exercise/opengl_01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opengl_01.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opengl_01.dir/main.cpp.o -c /Users/OldJiao/git/OpenGL_exercise/opengl_01/main.cpp
 
 CMakeFiles/opengl_01.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opengl_01.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/OldJiao/git/opengl_01/main.cpp > CMakeFiles/opengl_01.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/OldJiao/git/OpenGL_exercise/opengl_01/main.cpp > CMakeFiles/opengl_01.dir/main.cpp.i
 
 CMakeFiles/opengl_01.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opengl_01.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/OldJiao/git/opengl_01/main.cpp -o CMakeFiles/opengl_01.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/OldJiao/git/OpenGL_exercise/opengl_01/main.cpp -o CMakeFiles/opengl_01.dir/main.cpp.s
 
 CMakeFiles/opengl_01.dir/src/glad.c.o: CMakeFiles/opengl_01.dir/flags.make
 CMakeFiles/opengl_01.dir/src/glad.c.o: ../src/glad.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/OldJiao/git/opengl_01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/opengl_01.dir/src/glad.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/opengl_01.dir/src/glad.c.o   -c /Users/OldJiao/git/opengl_01/src/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/OldJiao/git/OpenGL_exercise/opengl_01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/opengl_01.dir/src/glad.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/opengl_01.dir/src/glad.c.o   -c /Users/OldJiao/git/OpenGL_exercise/opengl_01/src/glad.c
 
 CMakeFiles/opengl_01.dir/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/opengl_01.dir/src/glad.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/OldJiao/git/opengl_01/src/glad.c > CMakeFiles/opengl_01.dir/src/glad.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/OldJiao/git/OpenGL_exercise/opengl_01/src/glad.c > CMakeFiles/opengl_01.dir/src/glad.c.i
 
 CMakeFiles/opengl_01.dir/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/opengl_01.dir/src/glad.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/OldJiao/git/opengl_01/src/glad.c -o CMakeFiles/opengl_01.dir/src/glad.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/OldJiao/git/OpenGL_exercise/opengl_01/src/glad.c -o CMakeFiles/opengl_01.dir/src/glad.c.s
 
 # Object files for target opengl_01
 opengl_01_OBJECTS = \
@@ -96,7 +96,7 @@ opengl_01: CMakeFiles/opengl_01.dir/src/glad.c.o
 opengl_01: CMakeFiles/opengl_01.dir/build.make
 opengl_01: /usr/local/lib/libglfw3.a
 opengl_01: CMakeFiles/opengl_01.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/OldJiao/git/opengl_01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable opengl_01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/OldJiao/git/OpenGL_exercise/opengl_01/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable opengl_01"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/opengl_01.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/opengl_01.dir/clean:
 .PHONY : CMakeFiles/opengl_01.dir/clean
 
 CMakeFiles/opengl_01.dir/depend:
-	cd /Users/OldJiao/git/opengl_01/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/OldJiao/git/opengl_01 /Users/OldJiao/git/opengl_01 /Users/OldJiao/git/opengl_01/cmake-build-debug /Users/OldJiao/git/opengl_01/cmake-build-debug /Users/OldJiao/git/opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/OldJiao/git/OpenGL_exercise/opengl_01/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/OldJiao/git/OpenGL_exercise/opengl_01 /Users/OldJiao/git/OpenGL_exercise/opengl_01 /Users/OldJiao/git/OpenGL_exercise/opengl_01/cmake-build-debug /Users/OldJiao/git/OpenGL_exercise/opengl_01/cmake-build-debug /Users/OldJiao/git/OpenGL_exercise/opengl_01/cmake-build-debug/CMakeFiles/opengl_01.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/opengl_01.dir/depend
 

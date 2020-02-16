@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/OldJiao/git/opengl_09/main.cpp
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/main.cpp
 glad/glad.h
 -
 GLFW/glfw3.h
@@ -16,11 +16,11 @@ iostream
 cmath
 -
 src/stb_image.h
-/Users/OldJiao/git/opengl_09/src/stb_image.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/src/stb_image.h
 src/shader.h
-/Users/OldJiao/git/opengl_09/src/shader.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/src/shader.h
 src/camera.h
-/Users/OldJiao/git/opengl_09/src/camera.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/src/camera.h
 glm/glm.hpp
 -
 glm/gtc/matrix_transform.hpp
@@ -28,7 +28,7 @@ glm/gtc/matrix_transform.hpp
 glm/gtc/type_ptr.hpp
 -
 
-/Users/OldJiao/git/opengl_09/src/camera.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/src/camera.h
 glad/glad.h
 -
 glm/glm.hpp
@@ -38,7 +38,7 @@ glm/gtc/matrix_transform.hpp
 vector
 -
 
-/Users/OldJiao/git/opengl_09/src/shader.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/src/shader.h
 glad/glad.h
 -
 glm/glm.hpp
@@ -52,9 +52,9 @@ sstream
 iostream
 -
 
-/Users/OldJiao/git/opengl_09/src/stb_image.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/src/stb_image.h
 stb_image.h
-/Users/OldJiao/git/opengl_09/src/stb_image.h
+/Users/OldJiao/git/OpenGL_exercise/opengl_09/src/stb_image.h
 stdio.h
 -
 stdlib.h
