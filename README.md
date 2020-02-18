@@ -1,7 +1,7 @@
 # OpengGL_exercise
 *for personal learning by Secdoge*
 
-## ##Firstly
+## Firstly
 
 opengl3.3 glfw glad glm 
 
