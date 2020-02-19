@@ -78,3 +78,9 @@ add Assimp to load external models
 add four illuminants
 
 ![opengl_10](./pics/opengl_10.png)
+
+## opengl_11
+
+use stencil-testing to draw a border of our model
+
+![opengl_11](./pics/opengl_11.png)
