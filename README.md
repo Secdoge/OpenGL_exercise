@@ -84,3 +84,9 @@ add four illuminants
 use stencil-testing to draw a border of our model
 
 ![opengl_11](./pics/opengl_11.png)
+
+## opengl_12
+
+use blending to draw grass & window
+
+![opengl_12](./pics/opengl_12.png)
