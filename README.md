@@ -90,3 +90,11 @@ use stencil-testing to draw a border of our model
 use blending to draw grass & window
 
 ![opengl_12](./pics/opengl_12.png)
+
+## opengl_13
+
+use framebuffer and post-processing
+
+![opengl_13_2](./pics/opengl_13_2.png)
+
+![opengl_13](./pics/opengl_13.png)
